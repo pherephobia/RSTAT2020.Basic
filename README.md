@@ -1,19 +1,10 @@
-# Program Evaluation for Public Service (PMAP 8521—Fall 2020)
+# Rstudy2020: R로 배우는 기초통계
 
-![Program evaluation image](static/img/social-image-f20.png)
+![](static/images/Rstat.png)
+
+
+이 레포지토리는 [Rstudy2020](https://rstudy2020.netlify.app) 활동을 위해 작성된 코드 등을 공유하기 위해 만들어진 공간입니다. 
 
 ## Theme
 
-This site uses the [Academic Hugo theme](https://sourcethemes.com/academic/), with some slight template modifications found in `/assets/` and `layouts/`. The theme is included as a submodule, so when when cloning for the first time, use this command to get the theme too:
-
-    git clone --recursive https://github.com/gcushen/hugo-academic.git
-
-To get the theme later, use this command:
-
-    git submodule add \
-      https://github.com/gcushen/hugo-academic.git \
-      themes/hugo-academic
-
-To update to the latest version of the theme, use:
-
-    git submodule update --recursive --remote
+이 사이트는 Hugo와 [Andrew Heiss's](https://andrewheiss.com)가 커스텀한 [테마](https://github.com/andrewheiss/ath-tufte-hugo_18-19), 그리고 [Juan Fernando Tellez](https://juanftellez.com/)의 디자인을 참조하여 재구성되었습니다.
